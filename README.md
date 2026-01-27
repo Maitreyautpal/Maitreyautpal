@@ -13,7 +13,7 @@
 - 🤖 Passionate about **Machine Learning, Data Science & AI**
 - 📊 Love building real-world projects using data
 - 🌱 Currently learning advanced ML & model deployment
-- 🎯 Career Goal: **Machine Learning Engineer**
+- 🎯 Career Goal: **Data Scientist | AI/ML Engineer**
 
 ---
 
