@@ -1,3 +1,6 @@
+
+
+
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, MapPin, Sparkles } from "lucide-react";
 const HeroSection = () => {
@@ -198,3 +201,7 @@ const HeroSection = () => {
     </section>;
 };
 export default HeroSection;
+
+
+
+
