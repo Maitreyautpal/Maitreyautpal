@@ -95,14 +95,6 @@
 
 ---
 
-## 🐍 GitHub Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Maitreyautpal/Maitreyautpal/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 <div align="center">
 ⭐ *If you like my work, consider starring my repositories — it motivates me a lot!* 😄
 </div>
